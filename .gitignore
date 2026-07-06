@@ -1,5 +1,2 @@
-weights/
 .streamlit/secrets.toml
 __pycache__/
-*.pt
-*.pth
