@@ -189,7 +189,7 @@ def run_pipeline(pipeline_name: str, img: Image.Image, conf: float,
 # ══════════════════════════════════════════════════════════════════
 st.set_page_config(
     page_title="Low-Light Accident Detection POC",
-    page_icon="🚨",
+    page_icon="",
     layout="wide",
 )
 
